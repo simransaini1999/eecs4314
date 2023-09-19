@@ -3,7 +3,7 @@
 | Names | Student Number | Email |
 | :---         |     :---:      |          ---: |
 | Harsimran Saini |  215604960 | saini19@my.yorku.ca |
-| Aisha Mahmood |  217714189 | pending |
+| Aisha Mahmood |  217714189 | aisha895@my.yorku.ca |
 | Esha Viji |  218123307 | eshavij@my.yorku.ca |
 | Harrish Elango |  218187781 | elangoha@my.yorku.ca |
 | Siddhanth Bakshi |  pending | pending |
