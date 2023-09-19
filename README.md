@@ -9,7 +9,7 @@
 | Siddhanth Bakshi |  218305144 | sbakshi@my.yorku.ca  |
 
 ## Assignment 1
-[Assigment 1](https://simransaini1999.github.io/eecs4314/Assignment_1/Assignment_1.html)
+[Assignment 1](https://simransaini1999.github.io/eecs4314/Assignment_1/Assignment_1.html)
 
 ## Assignment 2
 [Assignment 2](https://simransaini1999.github.io/eecs4314/Assignment_2/Assignment_2.html)
