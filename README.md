@@ -8,3 +8,5 @@
 | Harrish Elango |  218187781 | elangoha@my.yorku.ca |
 | Siddhanth Bakshi |  pending | pending |
 
+## Assignment 1
+[Assigment 1](https://github.com/simransaini1999/eecs4314/tree/main/Assignment)
