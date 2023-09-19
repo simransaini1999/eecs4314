@@ -12,4 +12,4 @@
 [Assigment 1](eecs4314/tree/main/Assignment)
 
 ## Assignment 2
-[Assignment 2](https://github.com/simransaini1999/eecs4314/blob/main/Assignment_2/Assignment_2.html)
+[Assignment 2](https://simransaini1999.github.io/eecs4314/Assignment_2/Assignment_2.html)
