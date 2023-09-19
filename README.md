@@ -9,7 +9,7 @@
 | Siddhanth Bakshi |  pending | pending |
 
 ## Assignment 1
-[Assigment 1](https://github.com/simransaini1999/eecs4314/tree/main/Assignment)
+[Assigment 1](eecs4314/tree/main/Assignment)
 
 ## Assignment 2
 [Assignment 2](eecs4314/blob/main/Assignment_2/Assignment_2.txt)
