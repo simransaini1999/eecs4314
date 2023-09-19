@@ -11,4 +11,5 @@
 ## Assignment 1
 [Assigment 1](https://github.com/simransaini1999/eecs4314/tree/main/Assignment)
 
-## [Assignment 2](https://github.com/simransaini1999/eecs4314/tree/main/Assignment_2)
+## Assignment 2
+[Assignment 2](https://github.com/simransaini1999/eecs4314/tree/main/Assignment_2)
