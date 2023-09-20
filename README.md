@@ -13,3 +13,9 @@
 
 ## Assignment 2
 [Assignment 2](https://simransaini1999.github.io/eecs4314/Assignment_2/Assignment_2.html)
+
+## Assignment 3
+[Assignment 3](https://simransaini1999.github.io/eecs4314/Assignment_3/Assignment_3.html)
+
+## Assignment 4
+[Assignment 4](https://simransaini1999.github.io/eecs4314/Assignment_4/Assignment_4.html)
