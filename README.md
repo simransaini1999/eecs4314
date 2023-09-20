@@ -1,4 +1,4 @@
-# EECS 4314 Group Name: 
+# EECS 4314 Group Name: Analysis Paralysis
 
 | Names | Student Number | Email |
 | :---         |     :---:      |          ---: |
