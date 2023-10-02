@@ -7,6 +7,7 @@
 | Esha Vij |  218123307 | eshavij@my.yorku.ca |
 | Harrish Elango |  218187781 | elangoha@my.yorku.ca |
 | Siddhanth Bakshi |  218305144 | sbakshi@my.yorku.ca  |
+| Adewusi Fashokun | 218329540 | korede@my.yorku.ca | 
 
 ## Assignment 1
 [Assignment 1](https://simransaini1999.github.io/eecs4314/Assignment_1/Assignment_1.html)
