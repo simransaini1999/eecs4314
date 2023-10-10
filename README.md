@@ -1,6 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
+
 # EECS 4314 Group Name: Analysis Paralysis
 
 | Names | Student Number | Email |
