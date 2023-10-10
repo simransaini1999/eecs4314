@@ -1,3 +1,4 @@
+theme: Cayman
 # EECS 4314 Group Name: Analysis Paralysis
 
 | Names | Student Number | Email |
