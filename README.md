@@ -11,7 +11,7 @@
 | Adewusi Fashokun | 218329540 | korede@my.yorku.ca | 
 
 ## Assignment 1
-[Assignment 1](https://simransaini1999.github.io/eecs4314/Assignment_1/Assignment_1.html)<br>
+[Assignment 1](https://simransaini1999.github.io/eecs4314/Assignment_1/Assignment_1.html)
 {google_docs}[http://www.example.com/docs/document.pdf](https://docs.google.com/presentation/d/16aKmNKy-Bac0oVTL5fWEr_nmh6CejF011btff17GXF4/edit?usp=sharing){/google_docs}
 
 
