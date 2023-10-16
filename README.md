@@ -12,7 +12,8 @@
 
 ## Assignment 1
 [Assignment 1](https://simransaini1999.github.io/eecs4314/Assignment_1/Assignment_1.html)<br>
-https://docs.google.com/presentation/d/1mnIRKujmdwChcndCQPwZHISWAGRABkdprrLOiEKvsAU/edit?usp=sharing
+{google_docs}(https://docs.google.com/presentation/d/1mnIRKujmdwChcndCQPwZHISWAGRABkdprrLOiEKvsAU/edit?usp=sharing){/google_docs}
+
  
 ## Assignment 2
 [Assignment 2](https://simransaini1999.github.io/eecs4314/Assignment_2/Assignment_2.html)
