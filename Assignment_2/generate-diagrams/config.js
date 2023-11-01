@@ -16,7 +16,7 @@ module.exports = {
         dir: "flink-runtime/",
         subsystems: [
           {
-            name: "JobManagers",
+            name: "JobManager",
             dir: "flink-runtime/src/main/java/org/apache/runtime/jobmanager/",
           },
           {
