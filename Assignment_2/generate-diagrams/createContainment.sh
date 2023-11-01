@@ -1,0 +1,2 @@
+java -Xms256M -Xmx1024M -classpath ql.jar ca.uwaterloo.cs.ql.Main addcontain.ql ./out/flink.contain ./out/flink_UnderstandFileDependency.filtered.ta ./out/flink_UnderstandFileDependency.con.ta
+cat ./lib/schema.asv.ta ./out/flink_UnderstandFileDependency.con.ta > ./out/flink_UnderstandFileDependency.ls.ta
